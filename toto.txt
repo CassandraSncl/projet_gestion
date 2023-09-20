@@ -1,4 +1,8 @@
 coucou les amis 
 vous allez bien?
 :)
+<<<<<<< HEAD
 moi pas
+=======
+:(
+>>>>>>> 5cce698bd65f0a203fd23e3a0fa333638ef03e52
